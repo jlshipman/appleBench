@@ -1,0 +1,13 @@
+baseConfig#/<DIR>/<scriptName>/
+baseError#/<DIR>/<scriptName>/ERROR/
+baseList#/<DIR>/<scriptName>/LIST/
+baseLog#/<DIR>/<scriptName>/LOG/
+baseTemp#/<DIR>/<scriptName>/TEMP/
+checkfile#/<DIR>/<scriptName>/TEMP/runCheck
+logNum#5
+prefix#Main
+scriptName#<scriptName>
+scriptNameMail#Apple Bench
+TEMP#/<DIR>/<scriptName>/TEMP/
+timeserver#ntp1.larc.nasa.gov
+to_addr#"jeffery.l.shipman@nasa.gov"
